@@ -1,0 +1,9 @@
+#app {
+  background: linear-gradient(to right, #ffafbd, #ffc3a0);
+  @apply h-screen grid place-items-center;
+}
+
+* {
+  @apply text-text;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+}
